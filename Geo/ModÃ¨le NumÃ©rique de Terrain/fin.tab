@@ -1,0 +1,13 @@
+!table
+!version 300
+!charset WindowsLatin1
+
+Definition Table
+  File "fin.grd"
+  Type "RASTER"
+  (604068.693747, 4104603.390732) (0, 0) Label "NW",
+  (604068.693747, 4098041.346917) (0, 387) Label "SW",
+  (610630.737561, 4104603.390732) (387, 0) Label "NE",
+  (610630.737561, 4098041.346917) (387, 387) Label "SE"
+  CoordSys Earth Projection 8, 104, "m", 9, 0, 0.9996, 500000, 0
+  Units "m"
